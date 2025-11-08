@@ -34,5 +34,5 @@ Proven record in cloud cost optimization, DevOps automation, and AI-driven monit
 
       * Data Architect | Data Science | Data Engineering : over 6 years
     
-      * AP BTP Integration Suite : 3+ Years
+      * SAP BTP Integration Suite : 3+ Years
 
