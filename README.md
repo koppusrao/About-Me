@@ -26,10 +26,3 @@ Proven record in cloud cost optimization, DevOps automation, and AI-driven monit
     
       * AP BTP Integration Suite : 3+ Years
 
-
-
-
-
-<img width="975" height="422" alt="image" src="https://github.com/user-attachments/assets/5e3e7a04-929e-49ad-bd6b-e999023f77bc" />
-
-
