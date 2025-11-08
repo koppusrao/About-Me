@@ -6,6 +6,9 @@ Mobile : +91 9673331425 / +91 9922919198
 
 Email: koppusrao@gmail.com
 
+LinkedIn Profile: www.linkedin.com/in/sreenivasa-rao-koppu-bb18277
+
+
 ****
 
 
