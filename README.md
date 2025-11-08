@@ -1,4 +1,13 @@
 # About Me :
+****
+**Sreenivasa Rao Koppu**
+
+Mobile : +91 9673331425 / +91 9922919198
+
+Email: koppusrao@gmail.com
+
+****
+
 
 **Profile Summary:**
 
@@ -13,6 +22,7 @@ Skilled in solution framework creation, enterprise architecture, stakeholder eng
 
 Proven record in cloud cost optimization, DevOps automation, and AI-driven monitoring, including reducing AWS costs by 20%, automating 300+ test cases, and deploying real-time monitoring pipelines that cut downtime by 40%.
 
+****
 
 **Experience Summary :**
 
